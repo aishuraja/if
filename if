@@ -1,0 +1,5 @@
+def name(student):
+x=0
+if x<10:
+x=x+1;
+print(name("x is less"))
