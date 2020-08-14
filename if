@@ -1,5 +1,4 @@
-def name(student):
-x=0
-if x<10:
-x=x+1;
-print(name("x is less"))
+def name(student,num):
+ if num<=10:
+   return student
+print(name("hello everyone!!",10))
